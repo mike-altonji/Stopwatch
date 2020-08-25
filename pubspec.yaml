@@ -1,5 +1,5 @@
 name: stopwatch
-description: Stopwatch
+description: Stopwatch app that toggles start/stop by touching anywhere on the screen.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -18,7 +18,7 @@ dependencies:
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/red_icon.png"
+  image_path: "assets/images/Icon.jpg"
 
 
 dev_dependencies:
